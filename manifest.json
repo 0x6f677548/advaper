@@ -3,7 +3,7 @@
     "name": "AdVaper",
     "version": "0.0.1",
     "description": "AdVaper is a chrome extension that blocks ads on youtube.",
-    "author": "0x6f677548",
+    "author": "Hugo Batista",
     "icons": { "128": "icon_128.png" },
     "content_scripts": [
         {
